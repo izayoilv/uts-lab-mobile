@@ -23,7 +23,7 @@ contains both exam questions in one app with a small tab switcher:
 
 ## Getting started
 
-Requirements: Node.js 24, pnpm 12, and Expo Go with SDK 58 support.
+Requirements: Node.js 26, pnpm 12, and Expo Go with SDK 58 support.
 
 ```bash
 pnpm install
